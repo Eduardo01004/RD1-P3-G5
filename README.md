@@ -43,7 +43,7 @@ compañía tomando en cuenta todos los requerimientos.
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
-  - ![imagen0](imagenes/tp3.png)
+  - ![imagen0](imagenes/tp3.PNG)
 
   - ## Maquina virtual de Google Cloud
   - Maquina Virtual de Google Cloud con sistema operativo Debian GNU/ Linux 10 (Buster).
