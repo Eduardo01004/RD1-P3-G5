@@ -78,4 +78,37 @@ compañía tomando en cuenta todos los requerimientos.
   Luego se debe copiar y pegar todo en un documento del tipo .cfg para guardarlo y posteriormente copiar y pegarlo en otro switch.
 
   ![imagen0](imagenes/cfg.PNG)
-  
+
+- ### Comandos para la configuracion de las topologias
+
+  Comandos para asignar un puerto en modo trunk:
+  > configure terminal
+  >
+  > interfa f#/# (numero que desee)
+  >
+  > switchport mode trunk
+  >
+  > end
+
+Comandos para configuracion Etherchannel:
+  > configure terminal
+  >
+  > int range f#/# - # (numero que desee)
+  >
+  > channel-group # mode on (numero que desee)
+  >
+  > int port-channel # (numero anterior puesto)
+
+Comando para visualizar los Etherchannel:
+  > sh eth su
+
+Comandos para configuracion Etherchannel:
+  > configure terminal
+  >
+  > ip route #(red_destino) #(Mascara) #(Salto)
+
+Comando para visualizar  interfaces:
+  > sh ip int br
+
+Comando para visualizar  ruteo:
+  > sh ip ro
