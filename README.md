@@ -21,12 +21,13 @@ compañía tomando en cuenta todos los requerimientos.
 
 - ### Requerimientos de equipo de Equipo
 
-  - ## Topologia 1
+  - ## Topologia 1 y 4 
   - Sistema operativo Windows 10.
   - Procesador i7-6500U core 2.5GHZ
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
+  - ![imagen0](imagenes/tp1.png)
 
   - ## Topologia 2
   - Sistema operativo Windows 10.
@@ -34,6 +35,7 @@ compañía tomando en cuenta todos los requerimientos.
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
+  - ![imagen0](imagenes/tp2.png)
 
   - ## Topologia 3
   - Sistema operativo Windows 10.
@@ -41,13 +43,7 @@ compañía tomando en cuenta todos los requerimientos.
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
-
-  - ## Topologia 4
-  - Sistema operativo Windows 10.
-  - Procesador i7-6500U core 2.5GHZ
-  - 8gb de Memoria Ram ddr3l
-  - GNS3 version 2.2.17
-  - OpenVPN version 3.3.1.
+  - ![imagen0](imagenes/tp3.png)
 
   - ## Maquina virtual de Google Cloud
   - Maquina Virtual de Google Cloud con sistema operativo Debian GNU/ Linux 10 (Buster).
